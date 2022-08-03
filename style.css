@@ -12,8 +12,9 @@ header {
     background-color: rgb(178, 219, 254);
     position: fixed;
     top: 0cm;
-    padding-left: 10px;
+    padding-left: 50%;
     padding-right: 100%;
+    border-left: 50%;
 }
 
 footer {
