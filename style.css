@@ -8,8 +8,12 @@ body {
     font-family: cursive;
 }
 
-.header {
+header {
     background-color: rgb(178, 219, 254);
+    position: fixed;
+    top: 0cm;
+    padding-left: 10px;
+    padding-right: 100%;
 }
 
 footer {
